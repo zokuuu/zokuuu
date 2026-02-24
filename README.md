@@ -14,7 +14,7 @@ I'm Nikita, a design engineer based in Russia. I like building clean, modern int
 
 ## 🛠️ Some stuff I built:
 
-- **Dotfiles** – <a href="https://github.com/zokuuu/dotfiles" target="_blank">My every day driving tools. Simple and pretty</a>
+- <a href="https://github.com/zokuuu/dotfiles" target="_blank">**Dotfiles**</a> – My every day driving tools. Simple and pretty
 
 ---
 
