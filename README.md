@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**zokuuu/zokuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nikita, a design engineer based in Russia. I like building clean, modern interfaces with smooth animations and keeping things simple.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 These days I'm focused on:
+
+- React, TypeScript, Tailwind, Pythong and GO
+- UI components with subtle motion
+- Small, thoughtful projects with polish
+
+---
+
+## 🛠️ Some stuff I built:
+
+- **Dotfiles** – <a href="https://github.com/zokuuu/dotfiles" target="_blank">My every day driving tools. Simple and pretty</a>
+
+---
+
+## ✨ Fun Facts:
+
+- I like tea more than coffee
+- Hobbies: readings and try analog tools for life
